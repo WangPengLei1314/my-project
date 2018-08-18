@@ -1,2 +1,1 @@
-# my-project
-imatate jingdong website
+jscore
